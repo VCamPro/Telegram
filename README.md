@@ -1,1 +1,2 @@
-# Telegram
+# Phishing BOT Telegram
+Phishing BOT Telegram is a tool that mimics the Telegram login page to capture login information and scan QR codes for authentication. After logging in, the account's session is saved. You can then manage the account on your personal web platform as if it were a logged-in account on Telegram. Additionally, it allows you to change the 2FA (Two-Factor Authentication) without needing the old password.
