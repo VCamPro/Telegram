@@ -26,5 +26,5 @@ https://github.com/user-attachments/assets/ef1eb64f-aa2f-4274-bae9-a31426ca819a
 - Increase views and emoji reactions on a channel's posts.
 - And many more functions. I will update the bot to interact automatically between accounts, which will save you time. The code is written in PHP, so it’s easy to use without complicated steps. You just need PHP 8.3 hosting to use it.
 
-## Contact: https://t.me/AIVCAM
+## Contact: https://t.me/sinhtulenh
 
